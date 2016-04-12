@@ -8,10 +8,10 @@
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
-namespace Cubiche\Infrastructure\Geolocation\Persistence\Doctrine\ODM\MongoDB\Types;
+namespace Cubiche\Infrastructure\Geolocation\Doctrine\ODM\MongoDB\Types;
 
 use Cubiche\Domain\Geolocation\Coordinate;
-use Cubiche\Infrastructure\Model\Persistence\Doctrine\ODM\MongoDB\Types\ValueObjectType;
+use Cubiche\Infrastructure\Model\Doctrine\ODM\MongoDB\Types\ValueObjectType;
 
 /**
  * Coordinate Type Class.
